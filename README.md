@@ -6,12 +6,10 @@ This package provides Canvas LMS OAuth 2.0 support for the PHP League's [OAuth 2
 
 ## Install
 
-In your `composer.json`, include:
+Require the package as below
 
-```JSON
-"require": {
-    "stephencoduor/oauth2-canvaslms": "~1.0"
-}
+```
+composer require stephencoduor/oauth2-canvaslms
 ```
 
 ## Use
